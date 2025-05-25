@@ -1,0 +1,13 @@
+{
+  "domain": "netpack_installer",
+  "name": "ELRS Netpack Installer",
+  "author": "Bryce \"GRUBBY\" Gruber",
+  "author_uri": "https://github.com/i-am-grub",
+  "license": "MIT",
+  "description": "Install ELRS Netpack firmware",
+  "documentation_uri": "https://github.com/i-am-grub/netpack-installer",
+  "required_rhapi_version": "1.2",
+  "version": "1.0.0",
+  "dependencies" : ["esptool<5.0.0"],
+  "category": ["Utilities"]
+}
